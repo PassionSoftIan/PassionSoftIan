@@ -18,7 +18,7 @@
 ---
 ☕**언어: Java, Python**
 
-🍃**BE: Spring, SpringBoot, SpringCloud(MSA - ApiGateway Server, Config Server, Discovery Server), Spring WebSocket(STOMP), Django**
+🍃**BE: Spring, SpringBoot, SpringJPA, SpringCloud(MSA - ApiGateway Server, Config Server, Discovery Server), Spring WebSocket(STOMP), Django**
 
 🐳**Infra: Linux, AWS EC2(Ubuntu), Nginx, Docker, Docker Compose**
 
