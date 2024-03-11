@@ -18,7 +18,7 @@
 ---
 ☕**언어: Java, Python**
 
-🍃**BE: Spring, SpringBoot, SpringJPA, SpringCloud(MSA - ApiGateway Server, Config Server, Discovery Server), Spring WebSocket(STOMP), Django**
+🍃**BE: Spring, SpringSecurity, SpringBoot, SpringJPA, SpringCloud(MSA - ApiGateway Server, Config Server, Discovery Server), Spring WebSocket(STOMP), Django**
 
 🐳**Infra: Linux, AWS EC2(Ubuntu), Nginx, Docker, Docker Compose**
 
@@ -27,6 +27,8 @@
 🦈**DB(RDB): AWS RDS(MySQL), MySQL, Postgre, MariaDB**
 
 🍀**DB(NoSQL): MongoDB, Redis(Cluster)**
+
+🔑**Authorization & Authentication: JWT(Java Json Web Token - jjwt Library)**
 
 🛒**Storage: AWS S3**
 
