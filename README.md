@@ -41,10 +41,10 @@
 ---
 |상 이름|수상 기록|주관|역할|설명|일자|
 |---------|---------|---|------|-----------|---|
-|삼성 청년 SW 아카데미 자율 프로젝트(결선) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|우수상|삼성전자|팀장 PM<br> Infra BE<br> 발표|📀자율 프로젝트 전국 결선 발표 입상|2023.11.29|
+|삼성 청년 SW 아카데미 자율 프로젝트(결선)|우수상|삼성전자|팀장 PM<br> Infra BE<br> 발표|📀자율 프로젝트 전국 결선 발표 입상|2023.11.29|
 |삼성 청년 SW 아카데미 자율 프로젝트(캠퍼스)|우수상|삼성전자|팀장 PM <br>Infra BE <br>발표|📀Editor 페이지에서 ChatGPT와 검색을 한 번에! <br> 다이어그램, 퀴즈, 문서 클러스터링 까지! <br> Hyper Web Editor Service <br> 한입노트(Hype-Note)|2023.11.24|
 |삼성 청년 SW 아카데미 특화 프로젝트|우수상|삼성전자|PM<br> Infra BE<br> 발표|📀WebSocket을 이용한 뉴스 빅데이터 기반 실시간 멀티플레이 퀴즈 게임|2023.10.06|
 |삼성 청년 SW 아카데미 공통 프로젝트|우수상|삼성전자|팀장 PM<br> Infra BE FE<br> 발표|📀AI & WebRTC 기반 유아 식사 독려 게임|2023.08.18|
 |IT 아이디어|창의상|한국자산관리공사||📀얼굴인식 AI를 이용한 미아찾기 및 입양 가족찾아주기 서비스 기획|2018.01.02|
-|주택도시보증공사 <br> ESG 아이디어 공모전|대상|주택도시보증공사 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||📀친환경 건축인증 우선 보증 제도 모델링|2021.08.19|
+|주택도시보증공사 <br> ESG 아이디어 공모전|대상|주택도시보증공사 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||📀친환경 건축인증 우선 보증 제도 모델링 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|2021.08.19|
 |하나금융그룹<br>대학생 스마트홍보대사|최우수팀 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|하나금융그룹|팀장|📀CSR활동 및 금융 아이디어 제시 및 금융 홍보|2020.02.26|
