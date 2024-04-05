@@ -24,7 +24,7 @@
 
 🐳**Infra: Linux, AWS EC2(Ubuntu), Nginx, Docker, Docker Compose**
 
-👔**CI/CD: Jenkins(Free Style, Pipe Line), Web Hook**
+👔**CI/CD: Jenkins(Free Style, Pipe Line), Webhook**
 
 🦈**DB(RDB): AWS RDS(MySQL), MySQL, Postgre, MariaDB**
 
